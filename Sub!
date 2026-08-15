@@ -232,7 +232,7 @@ local function CreateHeader(parent)
     iconImage.Size = UDim2.new(0.8, 0, 0.8, 0)
     iconImage.Position = UDim2.new(0.1, 0, 0.1, 0)
     iconImage.BackgroundTransparency = 1
-    iconImage.Image = "rbxassetid://115394226851276"
+    iconImage.Image = "rbxassetid://115494226851276"
     iconImage.ImageColor3 = Colors.NeonWhite
     iconImage.ImageTransparency = 0.1
     iconImage.ScaleType = Enum.ScaleType.Fit
